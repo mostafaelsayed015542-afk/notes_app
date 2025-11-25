@@ -12,7 +12,11 @@ class AddNodeBottomsheet extends StatelessWidget {
         children: [
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 25,horizontal: 20),
-            child: CustomTextfield()
+            child: CustomTextfield(hint: 'Title',maxlines: 1,),
+          ),
+          Padding(
+            padding: const EdgeInsets.symmetric(vertical: 10,horizontal: 20),
+            child: CustomTextfield(hint: 'Content',maxlines: 7,),
           )
         ],
       ),
