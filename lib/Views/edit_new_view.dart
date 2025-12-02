@@ -7,7 +7,8 @@ class EditNewView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: EditNoteVewBody(),
+      body: EditNoteVewBody(title: 'Edit Node',icon: Icons.check,),
+      
     );
   }
 }
