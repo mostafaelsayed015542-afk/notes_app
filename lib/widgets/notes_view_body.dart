@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/widgets/Node_item.dart';
 import 'package:notes_app/widgets/costum_appbar.dart';
 import 'package:notes_app/widgets/notes_listview.dart';
 
