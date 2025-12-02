@@ -5,6 +5,7 @@ import 'package:notes_app/Views/home_page.dart';
 import 'package:notes_app/widgets/constant.dart';
 
 void main() async {
+
   await Hive.initFlutter();
   await Hive.openBox(knotebox);
   runApp(const MyApp());
