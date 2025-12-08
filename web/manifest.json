@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "figma1",
     "short_name": "figma1",
+=======
+    "name": "notes_app",
+    "short_name": "notes_app",
+>>>>>>> 0ae1c6f674bb6871fe26498800a4a3ec8aa56fcf
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

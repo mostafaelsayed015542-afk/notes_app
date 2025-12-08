@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="figma1"
+=======
+        android:label="notes_app"
+>>>>>>> 0ae1c6f674bb6871fe26498800a4a3ec8aa56fcf
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # figma1
+=======
+# notes_app
+>>>>>>> 0ae1c6f674bb6871fe26498800a4a3ec8aa56fcf
 
 A new Flutter project.
 
